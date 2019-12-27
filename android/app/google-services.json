@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055087954978",
+    "firebase_url": "https://myfirst-8f753.firebaseio.com",
+    "project_id": "myfirst-8f753",
+    "storage_bucket": "myfirst-8f753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055087954978:android:0a0a83522d46a57b204e7b",
+        "android_client_info": {
+          "package_name": "com.edware.myfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055087954978-aa1ri1tsnrjqlc32ff5unvtot536mr9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNSn01wn5zY16ATwHNbWf5BQHOVbEu48I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055087954978-aa1ri1tsnrjqlc32ff5unvtot536mr9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
